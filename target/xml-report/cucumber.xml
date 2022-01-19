@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.171">
+    <testcase classname="US_001" name="TC_001 kullanici basarili twitter girisi" time="0.062">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[Given kullanici "url"e gider................................................undefined
+And email kutusunda "valid_email"girer......................................skipped
+And ileri butonuna tiklar...................................................skipped
+And "valid_sifre"girer......................................................skipped
+And giris yapar.............................................................skipped
+And basarili bir giris yapildigi test edilir................................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
